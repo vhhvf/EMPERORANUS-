@@ -7,24 +7,24 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [
-  [' 201098906252 ', '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹 👑 ', true],
-  ['201098906252', '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹 💖', true],
-//  ['201098906252', 'E - 99👤', true],
-  ['+20 109 890 6252']]
+  [' 967771160204 ', '𓀂𝑬𝑴𝑷𝑬𝑹𝑶𝑹𝑨𝑵𝑼𝑺𓀋 👑 ', true],
+  ['967771160204', '𓀂𝑬𝑴𝑷𝑬𝑹𝑶𝑹𝑨𝑵𝑼𝑺𓀋 💖', true],
+//  ['967771160204', 'E - 99👤', true],
+  ['+967771160204']]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = [' 201098906252 '], 
+global.prems = [' 967771160204 '], 
    
   
-//⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
+//⊱ ━━━━━.⋅ IDIOMA : EMPERORANUS ⋅.━━━━ ⊰ 
 //Agrega el Idioma que quieres que tenga ElgazarBot-MD
 //Add the language you want ElgazarBot-MD to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = ar  //Idioma de ELGAZARBot, Ejemplo: es | en | pt...
+global.lenguajeGB = ar  //Idioma de EMPERORANUS, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -93,48 +93,48 @@ global.imagen1 = fs.readFileSync('./media/menus/Menu3.jpg')
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'ELGAZAR BOT 🧸'
-global.author = 'ELGAZAR-MD'
+global.packname = 'EMPERORANUS BOT 🧸'
+global.author = 'EMPERORANUS'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.5'
 global.version = vs
 
-global.gt = 'ELGAZAR BOT'
+global.gt = 'EMPERORANUS BOT'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/@ABDALLAH_MOHAMED'
+global.yt = 'https://youtube.com/@emperoranus7621'
 global.youtube = yt
 
-global.ig = 'https://www.tiktok.com/@q.r.a.n_0?_t=8YwfdTqNdDR&_r=1'
+global.ig = 'https://api.whatsapp.com/send?phone=967771160204&text='
 global.gatadiosig = ig
 
-global.md = 'https://youtube.com/@ABDALLAH_MOHAMED'
+global.md = 'https://youtube.com/@emperoranus7621'
 global.gatabot = md
 
-global.nna = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
-global.nnagrupo = nna //UPDATE ELGAZAE BOT 
+global.nna = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
+global.nnagrupo = nna //UPDATE EMPERORANUS BOT 
 global.nna2 = 'IxeB9yBYrNp85CLmKykmMM'
 
-global.nn = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
+global.nn = 'https://api.whatsapp.com/send?phone=967771160204&text='
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
+global.nnn = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
 global.nnngrupo = nnn //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
+global.nnnt = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
 global.nnntgrupo = nnnt //Grupo 3
 
-global.nnntt = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
+global.nnntt = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
 global.nnnttgrupo = nnntt //Grupo 4
 
-global.nnnttt = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
+global.nnnttt = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
 global.nnntttgrupo = nnnttt //Grupo 5
-global.paypal = 'https://youtube.com/@ABDALLAH_MOHAMED'
+global.paypal = 'https://youtube.com/@emperoranus7621'
 global.donar = paypal
 
-global.asistencia = 'Wa.me/201098906252' //
+global.asistencia = 'Wa.me/967771160204' //
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -168,13 +168,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = ' ELGAZAR-MD: ABDALLAH'
-global.igfg = 'ELGAZAR-MD'
+global.wm = ' EMPERORANUS: EMPERORANUS'
+global.igfg = 'EMPERORANUS'
 global.wait = '*⌛ _جاري التحميل..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _جاري التحميل..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _جاري التحميل..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _جاري التحميل..._ ▬▬▬▬▬▬▭*'
-global.nomorown = ' 201098906252' 
+global.nomorown = ' 967771160204' 
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -196,24 +196,24 @@ global.lolkeysapi = ['ahmed1p7']
 
 //━━━━━━━━━━━━━━ img ━━━━━━━━━
 
-global.img = 'https://i.imgur.com/WdjOrkq.jpeg'
-global.img2 = 'https://i.imgur.com/QlxuxAS.jpeg'
+global.img = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.img2 = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
 
-global.img3 = 'https://i.imgur.com/615mJ2s.jpeg' //prem
-global.img4 = 'https://i.imgur.com/fRcHio0.gif' //prem
+global.img3 = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg' //prem
+global.img4 = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg' //prem
 
-global.img5 = 'https://i.imgur.com/FpGvSKJ.jpeg'
-global.img6 = 'https://i.imgur.com/LU12lhz.gif'
-global.img7 = 'https://i.imgur.com/FpGvSKJ.jpeg'
-global.img8 = 'https://i.imgur.com/f2fV9WA.jpeg'
-global.img9 = 'https://i.imgur.com/fRcHio0.gif'
+global.img5 = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.img6 = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.img7 = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.img8 = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.img9 = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
 
-global.img10 = 'https://i.imgur.com/QlxuxAS.jpeg'
-global.img11 = 'https://i.imgur.com/WdjOrkq.jpeg'
-global.img12 = 'https://i.imgur.com/615mJ2s.jpeg'
-global.img13 = 'https://i.imgur.com/Hff1jGB.jpeg'
-global.img14 = 'https://i.imgur.com/zFhpTZ4.jpeg'
-global.img15 = 'https://i.imgur.com/QlxuxAS.jpeg'
+global.img10 = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.img11 = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.img12 = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.img13 = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.img14 = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.img15 = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
 
 global.redesMenu = [nna, nn, nnn, nnnt, nnntt, nnnttt, md, ig, paypal, yt]
 global.gataMenu = [img, img2, img6, img7, img8, img9, img13, img14, img15]
