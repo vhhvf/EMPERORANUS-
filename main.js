@@ -76,7 +76,7 @@ const connectionOptions = {
 printQRInTerminal: true,
 auth: state,
 logger: P({ level: 'silent'}),
-browser: ['ELGAZAR BOT-MD','Edge','1.0.0']
+browser: ['EMPERORANUS BOT-MD','Edge','1.0.0']
 }
 
 global.conn = makeWASocket(connectionOptions)
