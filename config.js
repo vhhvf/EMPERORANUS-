@@ -252,7 +252,7 @@ global.botdate = `⫹⫺ Date :  ${moment.tz('Europe/Rome').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Europe/Rome').format('HH:mm:ss')}`// وقت
 global.fgif = {
             key: {
-                 participant : '0@s.whatsapp.net'},
+                 participant : 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz@s.whatsapp.net'},
             message: { 
                         "videoMessage": { 
                         "title": wm,
